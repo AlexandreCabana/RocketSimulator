@@ -1,2 +1,4 @@
 Assets/Materials/EditBackground.png filter=lfs diff=lfs merge=lfs -text
 Builds/Linux/linux_Data/sharedassets2.assets.resS filter=lfs diff=lfs merge=lfs -text
+Builds/Mac/Mac.app/Contents/Resources/Data/sharedassets2.assets.resS filter=lfs diff=lfs merge=lfs -text
+Builds/Mac/Mac.app/Contents/Frameworks/UnityPlayer.dylib  filter=lfs diff=lfs merge=lfs -text
