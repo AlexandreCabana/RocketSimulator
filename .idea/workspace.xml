@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03bc520b-f828-4a64-84bf-77f572cb4e1e" name="Changes" comment="add mac builds" />
+    <list default="true" id="03bc520b-f828-4a64-84bf-77f572cb4e1e" name="Changes" comment="fix windows build">
+      <change afterPath="$PROJECT_DIR$/Docs/acceuil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/acceuilSousMenu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/construction.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/constructionFin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/constructionSnapGrid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/parametriser.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docs/vueEspace.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,14 +61,40 @@
       <option name="project" value="LOCAL" />
       <updated>1782328685766</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="edit git ignore and lfs">
+      <option name="closed" value="true" />
+      <created>1782328839553</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1782328839553</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add mac builds">
+      <option name="closed" value="true" />
+      <created>1782328865372</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1782328865372</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fix windows build">
+      <option name="closed" value="true" />
+      <created>1782329429168</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1782329429168</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="false" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fixup! add mac builds" />
+    <MESSAGE value="edit git ignore and lfs" />
     <MESSAGE value="add mac builds" />
-    <option name="LAST_COMMIT_MESSAGE" value="add mac builds" />
+    <MESSAGE value="fix windows build" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix windows build" />
   </component>
 </project>
