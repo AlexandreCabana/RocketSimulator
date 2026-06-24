@@ -23,9 +23,7 @@ Voici à quoi peut ressembler une fusée construite. Une fois terminer, appuyerr
 ![image](Docs/constructionFin.png)
 
 Voici à quoi ressemble notre simulation une fois lancé en regardant la vidéo suivante.
-<figure class="video_container">
-  <iframe src="./Docs/film.mp4" frameborder="0" allowfullscreen="true"> 
-</iframe>
-</figure>
+[![Watch the video](Docs/constructionFin.png)](Docs/film.mp4)
+
 Lorsqu'une haute altitude est atteinte, le décor change pour voir l'espace.
 ![image](Docs/vueEspace.png)
